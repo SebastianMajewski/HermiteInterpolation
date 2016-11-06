@@ -1,0 +1,16 @@
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\bin\Debug\HermitePresentation.exe.config
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\bin\Debug\HermitePresentation.exe
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\bin\Debug\HermitePresentation.pdb
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\App.g.cs
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation_MarkupCompile.cache
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation_MarkupCompile.lref
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\MainWindow.baml
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.g.resources
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.csproj.GenerateResource.Cache
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.exe
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\obj\Debug\HermitePresentation.pdb
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\bin\Debug\Hermite.dll
+C:\Users\Laptop\Desktop\Hermit\ConsoleApplication1\HermitePresentation\bin\Debug\Hermite.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermite", "Hermite\Hermite.csproj", "{429A106D-B136-4628-B8CF-BBE823BBD594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HermitePresentation", "HermitePresentation\HermitePresentation.csproj", "{57CCF4F2-F232-4CD2-B838-7E4474D01CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429A106D-B136-4628-B8CF-BBE823BBD594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429A106D-B136-4628-B8CF-BBE823BBD594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429A106D-B136-4628-B8CF-BBE823BBD594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429A106D-B136-4628-B8CF-BBE823BBD594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CCF4F2-F232-4CD2-B838-7E4474D01CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CCF4F2-F232-4CD2-B838-7E4474D01CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CCF4F2-F232-4CD2-B838-7E4474D01CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CCF4F2-F232-4CD2-B838-7E4474D01CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
